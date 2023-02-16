@@ -15,4 +15,5 @@ We learn 10 sprints during 4 months program.
 - Essential Python for Data Analyst
 - Dashboard
 
-LinkedIn: https://www.linkedin.com/in/salisa-r/
+LinkedIn  : https://www.linkedin.com/in/salisa-r/
+WordPress : https://salisaritti.wordpress.com/
