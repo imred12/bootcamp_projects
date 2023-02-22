@@ -17,5 +17,4 @@ We learn 10 sprints during 4 months program.
 
 ### Website
 - LinkedIn : https://www.linkedin.com/in/salisa-r/
-- WordPress : https://salisaritti.wordpress.com/
 - Replit : https://replit.com/@AntRitti
